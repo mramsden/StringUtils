@@ -1,6 +1,6 @@
 # StringUtils
 
-![](https://github.com/mramsden/StringUtils/workflows/.github/workflows/test.yml/badge.svg)
+![](https://github.com/mramsden/StringUtils/workflows/Tests/badge.svg)
 
 Helpers for working with strings in Swift.
 
